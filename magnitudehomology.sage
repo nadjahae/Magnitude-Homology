@@ -125,11 +125,3 @@ def table_hom_ranks (G, k_max, l_max):
         current_row.insert(0,i-1)
         rows.append(current_row)
     return table(rows = rows, header_row = True, header_column=True)
-
-t = table_hom_ranks(graphs.CycleGraph(3),7,7)
-
-print("The ranks of the magnitude homology groups of the hree-ycle graph are: \n")
-
-print(t)
-
-print(latex(t))
