@@ -1,6 +1,6 @@
 # Magnitude Homology
 
-This code was produced as part of our Master's Thesis about magnitude homology. The main part of the thesis is based on the paper 'Categorifying the Magnitude of a Graph' by R. Hepworth and S. Willerton. It can be 
+This code was produced as part of our Master's Thesis about magnitude homology, which can be found [here](https://people.math.ethz.ch/~skalisnik/theses/Haeusermann_Msc.pdf). The main part of the thesis is based on the paper 'Categorifying the Magnitude of a Graph' by R. Hepworth and S. Willerton. It can be 
 accessed [here](https://www.intlpress.com/site/pub/files/_fulltext/journals/hha/2017/0019/0002/HHA-2017-0019-0002-a003.pdf).
 Magnitude homology is a homology theory of graphs that categorifies the magnitude of graphs, which is a cardinality-like invariant. 
 In an attempt to reproduce the tables in the aforementioned paper, the following code was developed.
